@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage            = "-"
 
   s.author              = { "linchb" => "linchb@telesoftas.com" }
-  s.source              = { :git => "https://github.com/linarchabibulin/DibsPayment.git", :tag => s.version.to_s }
+  s.source              = { :git => "https://github.com/linarchabibulin/DibsPayment.git", :branch => 'master' }
   s.license          = 'MIT'
 
   s.platform            = :ios, '10.0'
